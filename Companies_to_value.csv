@@ -1,11 +1,11 @@
-"","Company","Exchange","Industry","Location","Total Revenue (USDmm)","EBITDA (USDmm)","EBIT (USDmm)","Basic EPS (USD)"
-"1","A","NasdaqGS","Consumer Discretionary","US/CA",11459.2,778.6,7504,2.74
-"2","B","NYSE","Consumer Staples","US/CA",7996,6372.4,5110,9.52
-"3","C","XTRA","Communication Services","APAC",25960.4,53249,8086.8,24.2
-"4","D","ENXTPA","Materials","LATAM",17580.8,1607.6,23596.6,15.86
-"5","E","SET","Consumer Discretionary","APAC",362.8,6125.8,1980.4,23
-"6","F","BIT","Consumer Discretionary","APAC",2649.4,75296,16746.8,2.24
-"7","G","BME","Information Technology","EU",4803,4503.4,5154,2.92
-"8","H","ASX","Consumer Staples","US/CA",12437,13099.6,267.4,1.942
-"9","I","NYSE","Consumer Discretionary","EU",52642.4,4139.2,1038.2,13.06
-"10","J","NYSE","Real Estate","US/CA",11396.6,1397.6,3382.6,13.12
+"Company","Exchange","Industry","Locations","Total Revenue (USDmm)","EBITDA (USDmm)","EBIT (USDmm)","Basic EPS (USD)"
+"A","NasdaqGS","Consumer Discretionary","US/CA",11459.2,778.6,7504,2.74
+"B","NYSE","Consumer Staples","US/CA",7996,6372.4,5110,9.52
+"C","XTRA","Communication Services","APAC",25960.4,53249,8086.8,24.2
+"D","ENXTPA","Materials","LATAM",17580.8,1607.6,23596.6,15.86
+"E","SET","Consumer Discretionary","APAC",362.8,6125.8,1980.4,23
+"F","BIT","Consumer Discretionary","APAC",2649.4,75296,16746.8,2.24
+"G","BME","Information Technology","EU",4803,4503.4,5154,2.92
+"H","ASX","Consumer Staples","US/CA",12437,13099.6,267.4,1.942
+"I","NYSE","Consumer Discretionary","EU",52642.4,4139.2,1038.2,13.06
+"J","NYSE","Real Estate","US/CA",11396.6,1397.6,3382.6,13.12
