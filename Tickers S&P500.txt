@@ -1,0 +1,504 @@
+Ticker;Name
+MMM;3M Co
+AOS;A O Smith Corp
+ABT;Abbott Laboratories
+ABBV;AbbVie Inc
+ABMD;ABIOMED Inc
+ACN;Accenture PLC
+ATVI;Activision Blizzard Inc
+ADBE;Adobe Inc
+AAP;Advance Auto Parts Inc
+AMD;Advanced Micro Devices Inc
+AES;AES Corp/The
+AFL;Aflac Inc
+A;Agilent Technologies Inc
+APD;Air Products and Chemicals Inc
+AKAM;Akamai Technologies Inc
+ALK;Alaska Air Group Inc
+ALB;Albemarle Corp
+ARE;Alexandria Real Estate Equities Inc
+ALXN;Alexion Pharmaceuticals Inc
+ALGN;Align Technology Inc
+ALLE;Allegion plc
+LNT;Alliant Energy Corp
+ALL;Allstate Corp/The
+GOOGL;Alphabet Inc
+GOOG;Alphabet Inc
+MO;Altria Group Inc
+AMZN;Amazon.com Inc
+AMCR;Amcor PLC
+AEE;Ameren Corp
+AAL;American Airlines Group Inc
+AEP;American Electric Power Co Inc
+AXP;American Express Co
+AIG;American International Group Inc
+AMT;American Tower Corp
+AWK;American Water Works Co Inc
+AMP;Ameriprise Financial Inc
+ABC;AmerisourceBergen Corp
+AME;AMETEK Inc
+AMGN;Amgen Inc
+APH;Amphenol Corp
+ADI;Analog Devices Inc
+ANSS;ANSYS Inc
+ANTM;Anthem Inc
+AON;Aon PLC
+APA;Apache Corp
+AAPL;Apple Inc
+AMAT;Applied Materials Inc
+APTV;Aptiv PLC
+ADM;Archer-Daniels-Midland Co
+ANET;Arista Networks Inc
+AJG;Arthur J Gallagher & Co
+AIZ;Assurant Inc
+T;AT&T Inc
+ATO;Atmos Energy Corp
+ADSK;Autodesk Inc
+ADP;Automatic Data Processing Inc
+AZO;AutoZone Inc
+AVB;AvalonBay Communities Inc
+AVY;Avery Dennison Corp
+BKR;Baker Hughes Co
+BLL;Ball Corp
+BAC;Bank of America Corp
+BK;Bank of New York Mellon Corp/The
+BAX;Baxter International Inc
+BDX;Becton Dickinson and Co
+BRK-B;Berkshire Hathaway Inc
+BBY;Best Buy Co Inc
+BIO;Bio-Rad Laboratories Inc
+BIIB;Biogen Inc
+BLK;BlackRock Inc
+BA;Boeing Co/The
+BKNG;Booking Holdings Inc
+BWA;BorgWarner Inc
+BXP;Boston Properties Inc
+BSX;Boston Scientific Corp
+BMY;Bristol-Myers Squibb Co
+AVGO;Broadcom Inc
+BR;Broadridge Financial Solutions Inc
+BF-B;Brown-Forman Corp
+COG;Cabot Oil & Gas Corp
+CDNS;Cadence Design Systems Inc
+CPB;Campbell Soup Co
+COF;Capital One Financial Corp
+CAH;Cardinal Health Inc
+KMX;CarMax Inc
+CCL;Carnival Corp
+CARR;Carrier Global Corp
+CTLT;Catalent Inc
+CAT;Caterpillar Inc
+CBOE;Cboe Global Markets Inc
+CBRE;CBRE Group Inc
+CDW;CDW Corp/DE
+CE;Celanese Corp
+CNC;Centene Corp
+CNP;CenterPoint Energy Inc
+LUMN;CenturyLink Inc
+CERN;Cerner Corp
+CF;CF Industries Holdings Inc
+CHRW;CH Robinson Worldwide Inc
+SCHW;Charles Schwab Corp/The
+CHTR;Charter Communications Inc
+CVX;Chevron Corp
+CMG;Chipotle Mexican Grill Inc
+CB;Chubb Ltd
+CHD;Church & Dwight Co Inc
+CI;Cigna Corp
+CINF;Cincinnati Financial Corp
+CTAS;Cintas Corp
+CSCO;Cisco Systems Inc
+C;Citigroup Inc
+CFG;Citizens Financial Group Inc
+CTXS;Citrix Systems Inc
+CLX;Clorox Co/The
+CME;CME Group Inc
+CMS;CMS Energy Corp
+KO;Coca-Cola Co/The
+CTSH;Cognizant Technology Solutions Corp
+CL;Colgate-Palmolive Co
+CMCSA;Comcast Corp
+CMA;Comerica Inc
+CAG;Conagra Brands Inc
+COP;ConocoPhillips
+ED;Consolidated Edison Inc
+STZ;Constellation Brands Inc
+COO;Cooper Cos Inc/The
+CPRT;Copart Inc
+GLW;Corning Inc
+CTVA;Corteva Inc
+COST;Costco Wholesale Corp
+CCI;Crown Castle International Corp
+CSX;CSX Corp
+CMI;Cummins Inc
+CVS;CVS Health Corp
+DHR;Danaher Corp
+DRI;Darden Restaurants Inc
+DVA;DaVita Inc
+DE;Deere & Co
+DAL;Delta Air Lines Inc
+XRAY;DENTSPLY SIRONA Inc
+DVN;Devon Energy Corp
+DXCM;DexCom Inc
+FANG;Diamondback Energy Inc
+DLR;Digital Realty Trust Inc
+DFS;Discover Financial Services
+DISCA;Discovery Inc
+DISCK;Discovery Inc
+DISH;DISH Network Corp
+DG;Dollar General Corp
+DLTR;Dollar Tree Inc
+D;Dominion Energy Inc
+DPZ;Domino's Pizza Inc
+DOV;Dover Corp
+DOW;Dow Inc
+DHI;DR Horton Inc
+DTE;DTE Energy Co
+DUK;Duke Energy Corp
+DRE;Duke Realty Corp
+DD;DuPont de Nemours Inc
+DXC;DXC Technology Co
+EMN;Eastman Chemical Co
+ETN;Eaton Corp PLC
+EBAY;eBay Inc
+ECL;Ecolab Inc
+EIX;Edison International
+EW;Edwards Lifesciences Corp
+EA;Electronic Arts Inc
+LLY;Eli Lilly and Co
+EMR;Emerson Electric Co
+ETR;Entergy Corp
+EOG;EOG Resources Inc
+EFX;Equifax Inc
+EQIX;Equinix Inc
+EQR;Equity Residential
+ESS;Essex Property Trust Inc
+EL;Estee Lauder Cos Inc/The
+ETSY;Etsy Inc
+RE;Everest Re Group Ltd
+EVRG;Evergy Inc
+ES;Eversource Energy
+EXC;Exelon Corp
+EXPE;Expedia Group Inc
+EXPD;Expeditors International of Washington I
+EXR;Extra Space Storage Inc
+XOM;Exxon Mobil Corp
+FFIV;F5 Networks Inc
+FB;Facebook Inc
+FAST;Fastenal Co
+FRT;Federal Realty Investment Trust
+FDX;FedEx Corp
+FIS;Fidelity National Information Services I
+FITB;Fifth Third Bancorp
+FRC;First Republic Bank/CA
+FE;FirstEnergy Corp
+FISV;Fiserv Inc
+FLT;FleetCor Technologies Inc
+FLIR;FLIR Systems Inc
+FLS;Flowserve Corp
+FMC;FMC Corp
+F;Ford Motor Co
+FTNT;Fortinet Inc
+FTV;Fortive Corp
+FBHS;Fortune Brands Home & Security Inc
+FOXA;Fox Corp
+FOX;Fox Corp
+BEN;Franklin Resources Inc
+FCX;Freeport-McMoRan Inc
+GPS;Gap Inc/The
+GRMN;Garmin Ltd
+IT;Gartner Inc
+GD;General Dynamics Corp
+GE;General Electric Co
+GIS;General Mills Inc
+GM;General Motors Co
+GPC;Genuine Parts Co
+GILD;Gilead Sciences Inc
+GPN;Global Payments Inc
+GL;Globe Life Inc
+GS;Goldman Sachs Group Inc/The
+HAL;Halliburton Co
+HBI;Hanesbrands Inc
+HIG;Hartford Financial Services Group Inc/Th
+HAS;Hasbro Inc
+HCA;HCA Healthcare Inc
+PEAK;Healthpeak Properties Inc
+HSIC;Henry Schein Inc
+HSY;Hershey Co/The
+HES;Hess Corp
+HPE;Hewlett Packard Enterprise Co
+HLT;Hilton Worldwide Holdings Inc
+HFC;HollyFrontier Corp
+HOLX;Hologic Inc
+HD;Home Depot Inc/The
+HON;Honeywell International Inc
+HRL;Hormel Foods Corp
+HST;Host Hotels & Resorts Inc
+HWM;Howmet Aerospace Inc
+HPQ;HP Inc
+HUM;Humana Inc
+HBAN;Huntington Bancshares Inc/OH
+HII;Huntington Ingalls Industries Inc
+IEX;IDEX Corp
+IDXX;IDEXX Laboratories Inc
+INFO;IHS Markit Ltd
+ITW;Illinois Tool Works Inc
+ILMN;Illumina Inc
+INCY;Incyte Corp
+IR;Ingersoll Rand Inc
+INTC;Intel Corp
+ICE;Intercontinental Exchange Inc
+IBM;International Business Machines Corp
+IFF;International Flavors & Fragrances Inc
+IP;International Paper Co
+IPG;Interpublic Group of Cos Inc/The
+INTU;Intuit Inc
+ISRG;Intuitive Surgical Inc
+IVZ;Invesco Ltd
+IPGP;IPG Photonics Corp
+IQV;IQVIA Holdings Inc
+IRM;Iron Mountain Inc
+SJM;J M Smucker Co/The
+JKHY;Jack Henry & Associates Inc
+J;Jacobs Engineering Group Inc
+JBHT;JB Hunt Transport Services Inc
+JNJ;Johnson & Johnson
+JCI;Johnson Controls International plc
+JPM;JPMorgan Chase & Co
+JNPR;Juniper Networks Inc
+KSU;Kansas City Southern
+K;Kellogg Co
+KEY;KeyCorp
+KEYS;Keysight Technologies Inc
+KMB;Kimberly-Clark Corp
+KIM;Kimco Realty Corp
+KMI;Kinder Morgan Inc
+KLAC;KLA Corp
+KHC;Kraft Heinz Co/The
+KR;Kroger Co/The
+LB;L Brands Inc
+LHX;L3Harris Technologies Inc
+LH;Laboratory Corp of America Holdings
+LRCX;Lam Research Corp
+LW;Lamb Weston Holdings Inc
+LVS;Las Vegas Sands Corp
+LEG;Leggett & Platt Inc
+LDOS;Leidos Holdings Inc
+LEN;Lennar Corp
+LNC;Lincoln National Corp
+LIN;Linde PLC
+LYV;Live Nation Entertainment Inc
+LKQ;LKQ Corp
+LMT;Lockheed Martin Corp
+L;Loews Corp
+LOW;Lowe's Cos Inc
+LYB;LyondellBasell Industries NV
+MTB;M&T Bank Corp
+MRO;Marathon Oil Corp
+MPC;Marathon Petroleum Corp
+MKTX;MarketAxess Holdings Inc
+MAR;Marriott International Inc/MD
+MMC;Marsh & McLennan Cos Inc
+MLM;Martin Marietta Materials Inc
+MAS;Masco Corp
+MA;Mastercard Inc
+MXIM;Maxim Integrated Products Inc
+MKC;McCormick & Co Inc/MD
+MCD;McDonald's Corp
+MCK;McKesson Corp
+MDT;Medtronic PLC
+MRK;Merck & Co Inc
+MET;MetLife Inc
+MTD;Mettler-Toledo International Inc
+MGM;MGM Resorts International
+MCHP;Microchip Technology Inc
+MU;Micron Technology Inc
+MSFT;Microsoft Corp
+MAA;Mid-America Apartment Communities Inc
+MHK;Mohawk Industries Inc
+TAP;Molson Coors Beverage Co
+MDLZ;Mondelez International Inc
+MNST;Monster Beverage Corp
+MCO;Moody's Corp
+MS;Morgan Stanley
+MOS;Mosaic Co/The
+MSI;Motorola Solutions Inc
+MSCI;MSCI Inc
+NDAQ;Nasdaq Inc
+NTAP;NetApp Inc
+NFLX;Netflix Inc
+NWL;Newell Brands Inc
+NEM;Newmont Corp
+NWS;News Corp
+NWSA;News Corp
+NEE;NextEra Energy Inc
+NLSN;Nielsen Holdings PLC
+NKE;NIKE Inc
+NI;NiSource Inc
+NSC;Norfolk Southern Corp
+NTRS;Northern Trust Corp
+NOC;Northrop Grumman Corp
+NLOK;NortonLifeLock Inc
+NCLH;Norwegian Cruise Line Holdings Ltd
+NOV;NOV Inc
+NRG;NRG Energy Inc
+NUE;Nucor Corp
+NVDA;NVIDIA Corp
+NVR;NVR Inc
+ORLY;O'Reilly Automotive Inc
+OXY;Occidental Petroleum Corp
+ODFL;Old Dominion Freight Line Inc
+OMC;Omnicom Group Inc
+OKE;ONEOK Inc
+ORCL;Oracle Corp
+OTIS;Otis Worldwide Corp
+PCAR;PACCAR Inc
+PKG;Packaging Corp of America
+PH;Parker-Hannifin Corp
+PAYX;Paychex Inc
+PAYC;Paycom Software Inc
+PYPL;PayPal Holdings Inc
+PNR;Pentair PLC
+PBCT;People's United Financial Inc
+PEP;PepsiCo Inc
+PKI;PerkinElmer Inc
+PRGO;Perrigo Co PLC
+PFE;Pfizer Inc
+PM;Philip Morris International Inc
+PSX;Phillips 66
+PNW;Pinnacle West Capital Corp
+PXD;Pioneer Natural Resources Co
+PNC;PNC Financial Services Group Inc/The
+POOL;Pool Corp
+PPG;PPG Industries Inc
+PPL;PPL Corp
+PFG;Principal Financial Group Inc
+PG;Procter & Gamble Co/The
+PGR;Progressive Corp/The
+PLD;Prologis Inc
+PRU;Prudential Financial Inc
+PEG;Public Service Enterprise Group Inc
+PSA;Public Storage
+PHM;PulteGroup Inc
+PVH;PVH Corp
+QRVO;Qorvo Inc
+QCOM;QUALCOMM Inc
+PWR;Quanta Services Inc
+DGX;Quest Diagnostics Inc
+RL;Ralph Lauren Corp
+RJF;Raymond James Financial Inc
+RTX;Raytheon Technologies Corp
+O;Realty Income Corp
+REG;Regency Centers Corp
+REGN;Regeneron Pharmaceuticals Inc
+RF;Regions Financial Corp
+RSG;Republic Services Inc
+RMD;ResMed Inc
+RHI;Robert Half International Inc
+ROK;Rockwell Automation Inc
+ROL;Rollins Inc
+ROP;Roper Technologies Inc
+ROST;Ross Stores Inc
+RCL;Royal Caribbean Cruises Ltd
+SPGI;S&P Global Inc
+CRM;salesforce.com Inc
+SBAC;SBA Communications Corp
+SLB;Schlumberger NV
+STX;Seagate Technology PLC
+SEE;Sealed Air Corp
+SRE;Sempra Energy
+NOW;ServiceNow Inc
+SHW;Sherwin-Williams Co/The
+SPG;Simon Property Group Inc
+SWKS;Skyworks Solutions Inc
+SLG;SL Green Realty Corp
+SNA;Snap-on Inc
+SO;Southern Co/The
+LUV;Southwest Airlines Co
+SWK;Stanley Black & Decker Inc
+SBUX;Starbucks Corp
+STT;State Street Corp
+STE;STERIS PLC
+SYK;Stryker Corp
+SIVB;SVB Financial Group
+SYF;Synchrony Financial
+SNPS;Synopsys Inc
+SYY;Sysco Corp
+TROW;T Rowe Price Group Inc
+TMUS;T-Mobile US Inc
+TTWO;Take-Two Interactive Software Inc
+TPR;Tapestry Inc
+TGT;Target Corp
+TEL;TE Connectivity Ltd
+FTI;TechnipFMC PLC
+TDY;Teledyne Technologies Inc
+TFX;Teleflex Inc
+TER;Teradyne Inc
+TSLA;Tesla Inc
+TXN;Texas Instruments Inc
+TXT;Textron Inc
+TMO;Thermo Fisher Scientific Inc
+TJX;TJX Cos Inc/The
+TSCO;Tractor Supply Co
+TT;Trane Technologies PLC
+TDG;TransDigm Group Inc
+TRV;Travelers Cos Inc/The
+TFC;Truist Financial Corp
+TWTR;Twitter Inc
+TYL;Tyler Technologies Inc
+TSN;Tyson Foods Inc
+UDR;UDR Inc
+ULTA;Ulta Beauty Inc
+UAA;Under Armour Inc
+UA;Under Armour Inc
+UNP;Union Pacific Corp
+UAL;United Airlines Holdings Inc
+UPS;United Parcel Service Inc
+URI;United Rentals Inc
+UNH;UnitedHealth Group Inc
+UHS;Universal Health Services Inc
+UNM;Unum Group
+USB;US Bancorp
+VLO;Valero Energy Corp
+VAR;Varian Medical Systems Inc
+VTR;Ventas Inc
+VRSN;VeriSign Inc
+VRSK;Verisk Analytics Inc
+VZ;Verizon Communications Inc
+VRTX;Vertex Pharmaceuticals Inc
+VFC;VF Corp
+VIAC;ViacomCBS Inc
+VTRS;Viatris Inc
+V;Visa Inc
+VNT;Vontier Corp
+VNO;Vornado Realty Trust
+VMC;Vulcan Materials Co
+WRB;W R Berkley Corp
+WBA;Walgreens Boots Alliance Inc
+WMT;Walmart Inc
+DIS;Walt Disney Co/The
+WM;Waste Management Inc
+WAT;Waters Corp
+WEC;WEC Energy Group Inc
+WFC;Wells Fargo & Co
+WELL;Welltower Inc
+WST;West Pharmaceutical Services Inc
+WDC;Western Digital Corp
+WU;Western Union Co/The
+WAB;Westinghouse Air Brake Technologies Corp
+WRK;Westrock Co
+WY;Weyerhaeuser Co
+WHR;Whirlpool Corp
+WMB;Williams Cos Inc/The
+WLTW;Willis Towers Watson PLC
+GWW;WW Grainger Inc
+WYNN;Wynn Resorts Ltd
+XEL;Xcel Energy Inc
+XRX;Xerox Holdings Corp
+XLNX;Xilinx Inc
+XYL;Xylem Inc/NY
+YUM;Yum! Brands Inc
+ZBRA;Zebra Technologies Corp
+ZBH;Zimmer Biomet Holdings Inc
+ZION;Zions Bancorp NA
+ZTS;Zoetis Inc
