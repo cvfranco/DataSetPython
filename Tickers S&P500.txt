@@ -184,7 +184,7 @@ EXPD;Expeditors International of Washington I
 EXR;Extra Space Storage Inc
 XOM;Exxon Mobil Corp
 FFIV;F5 Networks Inc
-FB;Facebook Inc
+META;META Co.
 FAST;Fastenal Co
 FRT;Federal Realty Investment Trust
 FDX;FedEx Corp
