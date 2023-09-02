@@ -10,4 +10,5 @@ The other data sets are from Capital IQ and transformed by me.
 
 * The Dataset on sustainability comes from: https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy
 
-* The Dataset for employee data comes from and modified by myself for academic purposes: https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
+* The Dataset for employee data comes from : https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
+and modified by myself for academic purposes
